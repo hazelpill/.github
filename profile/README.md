@@ -8,5 +8,7 @@
   </h1>
   <h3>
   <a href="https://hazelpill.github.io/">https://hazelpill.github.io/</a>
+  <br>- - - - - - - - - - - - - - - -<br>
+  <a href="https://github.com/orgs/hazelpill/repositories">Open Repositories</a>
   </h3>
 </div>
