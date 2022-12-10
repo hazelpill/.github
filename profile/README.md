@@ -6,6 +6,7 @@
     <b>HazelPill</b>
     <br>
   </h1>
+  <h2>Currently Inactive</h2>
   <h3>
   <a href="https://hazelpill.github.io/">https://hazelpill.github.io/</a>
   <br>- - - - - - - - - - - - - - - -<br>
